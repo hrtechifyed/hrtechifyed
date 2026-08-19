@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=210&section=header&text=Anurag%20Sinha%20%7C%20HRTechify&fontSize=48&fontColor=fff&fontAlignY=35&desc=Strategic%20HR%20%E2%80%A2%20Talent%20%26%20Organization%20%E2%80%A2%20HR%20Technology%20Innovation&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<a href="https://hrtechifyed.github.io/HRTECHIFY/">
+  <img src="https://raw.githubusercontent.com/hrtechifyed/HRTECHIFY/main/assets/hrtechify-logo.png" alt="HRTechify" width="240" />
+</a>
+
 # 👋 HR professional who builds
 
 ### People • Technology • Growth
