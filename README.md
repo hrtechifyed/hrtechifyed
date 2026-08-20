@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=190&section=header&text=Anurag%20Sinha&fontSize=54&fontColor=fff&fontAlignY=36&desc=TechHR%20%E2%80%A2%20People%20Systems%20%E2%80%A2%20Talent%20%26%20Organization&descAlignY=60&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=180&section=header&text=Anurag%20Sinha&fontSize=54&fontColor=fff&fontAlignY=35&desc=People%20Strategy%20%C3%97%20Technology%20%C3%97%20Product%20Thinking&descAlignY=59&descSize=19&animation=fadeIn" />
 
-# HR strategy meets technology
+# HR leader building at the intersection of people + technology
 
 ### People • Technology • Growth
 
-**Strategic HR | Talent Management | Organizational Effectiveness | AI-enabled HR Innovation**
+**Talent & Organization · People Systems · HR Technology · AI-enabled HR Innovation**
 
-I work on the **people side of business** — and use technology, AI and product thinking to make HR systems clearer, more useful and more scalable.
+I work on the **people side of business** and use technology, AI and product thinking to turn HR ideas into clearer systems, working experiments and practical prototypes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag_Sinha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsinha1009)
 [![HRTechify](https://img.shields.io/badge/Explore-HRTechify-F59E0B?style=flat-square)](https://hrtechifyed.github.io/HRTECHIFY/)
@@ -18,13 +18,32 @@ I work on the **people side of business** — and use technology, AI and product
 
 ---
 
-## TechHR, not software engineering
+## Currently building
 
-My core expertise is in **HR strategy, talent management, succession, leadership development, organization effectiveness, performance, workforce decisions and employee experience**.
+| Product | The problem | The approach | Explore |
+|---|---|---|---|
+| **GrowWithHR** | HR compliance guidance can become generic, difficult to trace and overly dependent on model output. | Deterministic rules first, governed retrieval second, AI only for explanation. | [Live](https://growwithhr.onrender.com/) · [Repository](https://github.com/hrtechifyed/GrowwithHR-Version2) |
+| **CorporateX** | Employer ratings often lose the context behind why someone actually left. | Structured exit stories designed to preserve sequence, context and contributor meaning. | [Live](https://hrtechifyed.github.io/The-Corporatex/) · [Repository](https://github.com/hrtechifyed/The-Corporatex) |
+| **HRTechify** | People and technology conversations are often separated when workplace problems need both. | A personal innovation platform across **People • Technology • Growth**. | [Explore](https://hrtechifyed.github.io/HRTECHIFY/) · [Repository](https://github.com/hrtechifyed/HRTECHIFY) |
 
-I am **not a professional coder**. I use AI-assisted development, automation, APIs, rules engines, retrieval systems and modern cloud tools to turn HR ideas into working prototypes.
+<div align="center">
 
-The model is simple:
+![GrowWithHR Stars](https://img.shields.io/github/stars/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20stars)
+![GrowWithHR Activity](https://img.shields.io/github/last-commit/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20updated)
+![CorporateX Stars](https://img.shields.io/github/stars/hrtechifyed/The-Corporatex?style=flat-square&label=CorporateX%20stars)
+![CorporateX Activity](https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=CorporateX%20updated)
+
+</div>
+
+---
+
+## Why this GitHub exists
+
+My professional foundation is **HR, not software engineering**.
+
+I use GitHub as a **TechHR lab**: a place to test whether ideas from talent, organization design, employee experience, HR compliance and human–AI collaboration can be turned into something people can actually use.
+
+The pattern is consistent:
 
 ```text
 People / workplace problem
@@ -33,7 +52,7 @@ HR and organizational logic
         ↓
 Decision rules + experience design
         ↓
-Technology as the enabling layer
+Technology as an enabling layer
         ↓
 Working prototype
         ↓
@@ -44,77 +63,37 @@ Test • learn • improve
 
 ---
 
-## Where I operate
+## From HR problem → working product
 
-| HR Core | Technology Edge |
-|---|---|
-| Talent Strategy | AI-assisted product building |
-| Succession & Critical Roles | AI agents & workflow automation |
-| Organization Design | Rules engines & decision flows |
-| Performance & Career Frameworks | Retrieval-augmented generation |
-| Leadership Development | API integrations |
-| Workforce & People Decisions | Data / cloud platforms |
-| Employee Experience | Responsible human–AI design |
+### 1. Explainable HR intelligence
+**Problem:** AI can produce fluent HR guidance without making the decision path clear.  
+**Experiment:** **GrowWithHR**  
+**Design choice:** Rules decide. Governed sources support. AI explains.
 
-The technology is there to strengthen the HR system — **not to replace judgment, context or accountability**.
+### 2. Workplace stories with context
+**Problem:** A single employer rating rarely explains what changed, why someone left or who might still thrive there.  
+**Experiment:** **CorporateX**  
+**Design choice:** Preserve the story behind the score.
 
----
-
-## What I build
-
-### **HRTechify**
-A personal innovation platform exploring practical questions across **People • Technology • Growth**.
-
-[View repository](https://github.com/hrtechifyed/HRTECHIFY) · [Explore HRTechify](https://hrtechifyed.github.io/HRTECHIFY/)
-
-### **GrowWithHR**
-A traceable HR compliance advisory prototype built around deterministic rules, governed retrieval and AI used for explanation rather than decision authority.
-
-[View repository](https://github.com/hrtechifyed/GrowwithHR-Version2)
-
-### **CorporateX**
-A structured exit-story product designed to preserve context behind workplace experiences instead of reducing employers to a rating.
-
-[View repository](https://github.com/hrtechifyed/The-Corporatex)
-
-### Other experiments
-
-- [Team Dynamics Simulator](https://github.com/hrtechifyed/hrtechify-patricklencioni-teamdys-simulator) — team effectiveness and organizational behaviour
-- [JobMatch](https://github.com/hrtechifyed/jobmatch) — career and job-decision experimentation
-- [Company Analyser](https://github.com/hrtechifyed/intelligentcompanalyser) — structured organizational analysis experiments
+### 3. Technology without losing the human problem
+**Problem:** HR technology discussions can start with the tool instead of the workplace question.  
+**Platform:** **HRTechify**  
+**Design choice:** Start with people. Add technology where it improves clarity, decisions or experience.
 
 ---
 
-## HR problems I keep coming back to
+## The TechHR Lab
 
-<div align="center">
+| Status | Experiment | Focus |
+|---|---|---|
+| **LIVE** | [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2) | Explainable HR & compliance intelligence |
+| **LIVE** | [CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
+| **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
+| **EXPERIMENT** | [Team Dynamics Simulator](https://github.com/hrtechifyed/hrtechify-patricklencioni-teamdys-simulator) | Team effectiveness & organizational behaviour |
+| **EXPERIMENT** | [JobMatch](https://github.com/hrtechifyed/jobmatch) | Career and job-decision experimentation |
+| **EXPERIMENT** | [Company Analyser](https://github.com/hrtechifyed/intelligentcompanalyser) | Structured organizational analysis |
 
-![Talent](https://img.shields.io/badge/Talent_Strategy-1F2937?style=flat-square)
-![Organization](https://img.shields.io/badge/Organization_Design-1F2937?style=flat-square)
-![Leadership](https://img.shields.io/badge/Leadership_Development-1F2937?style=flat-square)
-![Succession](https://img.shields.io/badge/Succession_Planning-1F2937?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-1F2937?style=flat-square)
-![Career](https://img.shields.io/badge/Career_Frameworks-1F2937?style=flat-square)
-![Employee Experience](https://img.shields.io/badge/Employee_Experience-1F2937?style=flat-square)
-![Compliance](https://img.shields.io/badge/HR_Compliance-1F2937?style=flat-square)
-![AI](https://img.shields.io/badge/Human_%2B_AI_Work-1F2937?style=flat-square)
-
-</div>
-
-> **Do not start with AI. Start with the people problem.**  
-> Use technology where it creates clearer decisions, better experiences or stronger HR systems.
-
----
-
-## Selected HR-building experience
-
-- Built and scaled talent and leadership-development approaches across India and Bangladesh.
-- Worked with senior leaders on succession, critical roles, performance and leadership readiness.
-- Supported a global Amazon employee population of **1,100+** across multiple countries.
-- Built career and competency frameworks and worked on organization effectiveness and employee experience.
-- Led people-workstream elements of post-acquisition integration, including organization design, job levelling and workforce transitions.
-- Designed and executed an HR competency model while an HR organization scaled from roughly **200 to 600+ employees in about 18 months**.
-- Continue to experiment independently with HR technology through HRTechify.
+Some experiments remain private while they are being developed or tested.
 
 ---
 
@@ -131,11 +110,40 @@ A structured exit-story product designed to preserve context behind workplace ex
 
 </div>
 
-> GitHub activity here reflects **experimentation, product building and AI-assisted development** — not a claim of professional software-engineering expertise.
+> GitHub activity here reflects **product experimentation, AI-assisted building and learning-by-making**. The goal is not to present a software-engineering identity; it is to make HR ideas tangible enough to test.
 
 ---
 
-## Tools I use when building
+## Professional foundation
+
+My work spans **strategic HR, talent management, succession, leadership development, organization effectiveness, performance, workforce decisions and employee experience**.
+
+Selected experience:
+
+- **Siemens** — talent and leadership-development work across India and Bangladesh; succession, critical roles and leadership readiness with senior stakeholders.
+- **Amazon** — HR partnership for a global employee population of **1,100+** across multiple countries; performance, career frameworks, employee experience and team effectiveness.
+- **Flipkart** — organization design, post-acquisition integration, rewards, talent and performance; designed an HR competency model while the HR organization scaled from roughly **200 to 600+ employees in about 18 months**.
+- **HRTechify** — independent experimentation with people systems, AI-enabled HR tools, decision logic and digital employee experiences.
+
+---
+
+## Where I operate
+
+| HR Core | Technology Edge |
+|---|---|
+| Talent Strategy | AI-assisted product building |
+| Succession & Critical Roles | AI agents & workflow automation |
+| Organization Design | Rules engines & decision flows |
+| Performance & Career Frameworks | Retrieval-augmented generation |
+| Leadership Development | API integrations |
+| Workforce & People Decisions | Data & cloud platforms |
+| Employee Experience | Responsible human–AI design |
+
+The technology is there to strengthen the HR system — **not to replace judgment, context or accountability**.
+
+---
+
+## Product & AI toolkit
 
 <div align="center">
 
@@ -154,14 +162,25 @@ A structured exit-story product designed to preserve context behind workplace ex
 
 ---
 
-## Connect
+## Questions I am exploring
 
-If you are interested in **talent, organization effectiveness, HR technology, people systems or responsible human–AI collaboration**, I am always interested in thoughtful conversations and ideas.
+- How can AI support HR decisions **without becoming the decision authority**?
+- How do people systems scale **without becoming impersonal or opaque**?
+- What should organizations preserve when technology removes repetitive work that once helped people learn?
+- How can talent, career and performance systems become **more contextual and less mechanical**?
+- Where should automation stop and **human judgment deliberately remain**?
+
+---
+
+## Connect / collaborate
+
+If you work on **talent, organization effectiveness, HR technology, people systems, workplace products or responsible human–AI collaboration**, I am always interested in thoughtful conversations and experiments.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsinha1009)
 [![HRTechify](https://img.shields.io/badge/Explore-HRTechify-F59E0B?style=for-the-badge)](https://hrtechifyed.github.io/HRTECHIFY/)
+[![Follow](https://img.shields.io/github/followers/hrtechifyed?label=Follow%20on%20GitHub&style=for-the-badge&logo=github)](https://github.com/hrtechifyed?tab=followers)
 
 <br><br>
 
