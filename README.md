@@ -22,9 +22,9 @@ I work on the **people side of business** and use technology, AI and product thi
 
 | Product | The problem | The approach | Explore |
 |---|---|---|---|
+| **HRTechify** | People and technology conversations are often separated when workplace problems need both. | A connected innovation platform across **People • Technology • Growth**. | [Explore](https://hrtechifyed.github.io/HRTECHIFY/) · [Repository](https://github.com/hrtechifyed/HRTECHIFY) |
 | **GrowWithHR** | HR compliance guidance can become generic, difficult to trace and overly dependent on model output. | Deterministic rules first, governed retrieval second, AI only for explanation. | [Live](https://growwithhr.onrender.com/) · [Repository](https://github.com/hrtechifyed/GrowwithHR-Version2) |
 | **The CorporateX** | Employer ratings often lose the context behind why someone actually left. | Structured exit stories designed to preserve sequence, context and contributor meaning. | [Live](https://hrtechifyed.github.io/The-Corporatex/) · [Repository](https://github.com/hrtechifyed/The-Corporatex) |
-| **HRTechify** | People and technology conversations are often separated when workplace problems need both. | A connected innovation platform across **People • Technology • Growth**. | [Explore](https://hrtechifyed.github.io/HRTECHIFY/) · [Repository](https://github.com/hrtechifyed/HRTECHIFY) |
 | **Public Podcast Studio** | Podcast production tools can automate too much, obscure what happens to source audio or make creator control secondary. | Privacy-first production with original-audio preservation, browser recording, user-owned storage and approval-controlled spoken-content edits. | [Repository](https://github.com/hrtechifyed/hrtechify-public-podcast-studio) |
 
 <div align="center">
@@ -66,20 +66,20 @@ Test • learn • improve
 
 ## From HR problem → working product
 
-### 1. Explainable HR intelligence
+### 1. A connected People × Technology brand
+**Problem:** HR technology discussions can start with the tool instead of the workplace question.  
+**Platform:** **HRTechify**  
+**Design choice:** Start with people. Add technology where it improves clarity, decisions or experience.
+
+### 2. Explainable HR intelligence
 **Problem:** AI can produce fluent HR guidance without making the decision path clear.  
 **Product:** **GrowWithHR**  
 **Design choice:** Rules decide. Governed sources support. AI explains.
 
-### 2. Workplace stories with context
+### 3. Workplace stories with context
 **Problem:** A single employer rating rarely explains what changed, why someone left or who might still thrive there.  
 **Product:** **The CorporateX**  
 **Design choice:** Preserve the story behind the score.
-
-### 3. A connected People × Technology brand
-**Problem:** HR technology discussions can start with the tool instead of the workplace question.  
-**Platform:** **HRTechify**  
-**Design choice:** Start with people. Add technology where it improves clarity, decisions or experience.
 
 ### 4. Podcast production without taking control from the creator
 **Problem:** Production automation should not silently rewrite spoken content or overwrite source recordings.  
@@ -92,9 +92,9 @@ Test • learn • improve
 
 | Status | Flagship | Focus |
 |---|---|---|
+| **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
 | **LIVE** | [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2) | Explainable HR & compliance intelligence |
 | **LIVE** | [The CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
-| **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
 | **BUILDING IN PUBLIC** | [Public Podcast Studio](https://github.com/hrtechifyed/hrtechify-public-podcast-studio) | Privacy-first, creator-controlled podcast production |
 
 <details>
