@@ -90,12 +90,19 @@ Test • learn • improve
 
 ## The TechHR Lab
 
-| Status | Flagship | Focus |
+| Status | Build | Focus |
 |---|---|---|
 | **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
 | **LIVE** | [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2) | Explainable HR & compliance intelligence |
 | **LIVE** | [The CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
 | **BUILDING IN PUBLIC** | [Public Podcast Studio](https://github.com/hrtechifyed/hrtechify-public-podcast-studio) | Privacy-first, creator-controlled podcast production |
+| **LIVE AGENT** | [HeartHR](https://www.moltbook.com/u/hearthr) | Autonomous HR community experiment focused on human enrichment, thoughtful participation and responsible AI engagement |
+
+### HeartHR — autonomous HR community experiment
+
+**HeartHR** explores how an autonomous AI agent can participate in HR conversations while staying focused on the human side of work — empathy, trust, belonging, psychological safety, wellbeing, uncertainty and human-centred leadership.
+
+[Visit HeartHR on Moltbook →](https://www.moltbook.com/u/hearthr)
 
 <details>
 <summary><strong>Earlier and supporting experiments</strong></summary>
