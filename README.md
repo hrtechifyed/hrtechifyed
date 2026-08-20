@@ -29,7 +29,7 @@ I work on the **people side of business** and use technology, AI and product thi
 
 <div align="center">
 
-![GrowWithHR Stars](https://img.shields.io/github/stars/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20stars)
+![HRTechify Activity](https://img.shields.io/github/last-commit/hrtechifyed/HRTECHIFY?style=flat-square&label=HRTechify%20updated)
 ![GrowWithHR Activity](https://img.shields.io/github/last-commit/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20updated)
 ![CorporateX Activity](https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=CorporateX%20updated)
 ![Podcast Activity](https://img.shields.io/github/last-commit/hrtechifyed/hrtechify-public-podcast-studio?style=flat-square&label=Podcast%20Studio%20updated)
