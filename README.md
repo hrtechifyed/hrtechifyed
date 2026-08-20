@@ -18,20 +18,21 @@ I work on the **people side of business** and use technology, AI and product thi
 
 ---
 
-## Currently building
+## Four flagship builds
 
 | Product | The problem | The approach | Explore |
 |---|---|---|---|
 | **GrowWithHR** | HR compliance guidance can become generic, difficult to trace and overly dependent on model output. | Deterministic rules first, governed retrieval second, AI only for explanation. | [Live](https://growwithhr.onrender.com/) · [Repository](https://github.com/hrtechifyed/GrowwithHR-Version2) |
-| **CorporateX** | Employer ratings often lose the context behind why someone actually left. | Structured exit stories designed to preserve sequence, context and contributor meaning. | [Live](https://hrtechifyed.github.io/The-Corporatex/) · [Repository](https://github.com/hrtechifyed/The-Corporatex) |
-| **HRTechify** | People and technology conversations are often separated when workplace problems need both. | A personal innovation platform across **People • Technology • Growth**. | [Explore](https://hrtechifyed.github.io/HRTECHIFY/) · [Repository](https://github.com/hrtechifyed/HRTECHIFY) |
+| **The CorporateX** | Employer ratings often lose the context behind why someone actually left. | Structured exit stories designed to preserve sequence, context and contributor meaning. | [Live](https://hrtechifyed.github.io/The-Corporatex/) · [Repository](https://github.com/hrtechifyed/The-Corporatex) |
+| **HRTechify** | People and technology conversations are often separated when workplace problems need both. | A connected innovation platform across **People • Technology • Growth**. | [Explore](https://hrtechifyed.github.io/HRTECHIFY/) · [Repository](https://github.com/hrtechifyed/HRTECHIFY) |
+| **Public Podcast Studio** | Podcast production tools can automate too much, obscure what happens to source audio or make creator control secondary. | Privacy-first production with original-audio preservation, browser recording, user-owned storage and approval-controlled spoken-content edits. | [Repository](https://github.com/hrtechifyed/hrtechify-public-podcast-studio) |
 
 <div align="center">
 
 ![GrowWithHR Stars](https://img.shields.io/github/stars/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20stars)
 ![GrowWithHR Activity](https://img.shields.io/github/last-commit/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=GrowWithHR%20updated)
-![CorporateX Stars](https://img.shields.io/github/stars/hrtechifyed/The-Corporatex?style=flat-square&label=CorporateX%20stars)
 ![CorporateX Activity](https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=CorporateX%20updated)
+![Podcast Activity](https://img.shields.io/github/last-commit/hrtechifyed/hrtechify-public-podcast-studio?style=flat-square&label=Podcast%20Studio%20updated)
 
 </div>
 
@@ -67,33 +68,45 @@ Test • learn • improve
 
 ### 1. Explainable HR intelligence
 **Problem:** AI can produce fluent HR guidance without making the decision path clear.  
-**Experiment:** **GrowWithHR**  
+**Product:** **GrowWithHR**  
 **Design choice:** Rules decide. Governed sources support. AI explains.
 
 ### 2. Workplace stories with context
 **Problem:** A single employer rating rarely explains what changed, why someone left or who might still thrive there.  
-**Experiment:** **CorporateX**  
+**Product:** **The CorporateX**  
 **Design choice:** Preserve the story behind the score.
 
-### 3. Technology without losing the human problem
+### 3. A connected People × Technology brand
 **Problem:** HR technology discussions can start with the tool instead of the workplace question.  
 **Platform:** **HRTechify**  
 **Design choice:** Start with people. Add technology where it improves clarity, decisions or experience.
+
+### 4. Podcast production without taking control from the creator
+**Problem:** Production automation should not silently rewrite spoken content or overwrite source recordings.  
+**Product:** **HRTechify Public Podcast Studio**  
+**Design choice:** Preserve the original, automate technical cleanup, and require approval before spoken content is changed.
 
 ---
 
 ## The TechHR Lab
 
-| Status | Experiment | Focus |
+| Status | Flagship | Focus |
 |---|---|---|
 | **LIVE** | [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2) | Explainable HR & compliance intelligence |
-| **LIVE** | [CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
+| **LIVE** | [The CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
 | **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
-| **EXPERIMENT** | [Team Dynamics Simulator](https://github.com/hrtechifyed/hrtechify-patricklencioni-teamdys-simulator) | Team effectiveness & organizational behaviour |
-| **EXPERIMENT** | [JobMatch](https://github.com/hrtechifyed/jobmatch) | Career and job-decision experimentation |
-| **EXPERIMENT** | [Company Analyser](https://github.com/hrtechifyed/intelligentcompanalyser) | Structured organizational analysis |
+| **BUILDING IN PUBLIC** | [Public Podcast Studio](https://github.com/hrtechifyed/hrtechify-public-podcast-studio) | Privacy-first, creator-controlled podcast production |
 
-Some experiments remain private while they are being developed or tested.
+<details>
+<summary><strong>Earlier and supporting experiments</strong></summary>
+
+<br>
+
+- [Team Dynamics Simulator](https://github.com/hrtechifyed/hrtechify-patricklencioni-teamdys-simulator) — team effectiveness and organizational behaviour
+- [JobMatch](https://github.com/hrtechifyed/jobmatch) — career and job-decision experimentation
+- [Company Analyser](https://github.com/hrtechifyed/intelligentcompanalyser) — structured organizational analysis
+
+</details>
 
 ---
 
