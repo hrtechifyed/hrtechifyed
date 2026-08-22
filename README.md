@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=180&section=header&text=HRTechify%20&fontSize=54&fontColor=fff&fontAlignY=35&desc=HR%20Company%20%E2%80%A2%20People%20%E2%80%A2%20Technology%20%E2%80%A2%20Growth&descAlignY=59&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=180&section=header&text=HRTechify%20&fontSize=54&fontColor=fff&fontAlignY=35&desc=People%20%E2%80%A2%20Technology%20%E2%80%A2%20Growth&descAlignY=59&descSize=19&animation=fadeIn" />
 
 HR company building practical HR technology and workplace solutions
 
