@@ -2,9 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=180&section=header&text=HRTechify&fontSize=56&fontColor=fff&fontAlignY=35&desc=People%20%E2%80%A2%20Technology%20%E2%80%A2%20Growth&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<h1>HRTechify</h1>
+<strong>HRTechify</strong>
 
-<h3>An HR company building practical people, workplace and HR technology solutions</h3>
+<br><br>
+
+<strong>An HR company building practical people, workplace and HR technology solutions</strong>
+
+<br><br>
 
 <strong>Technology where it helps. Human judgement where it matters.</strong>
 
@@ -33,7 +37,9 @@
 
 <div align="center">
 
-<h3>Explore</h3>
+<strong>Explore</strong>
+
+<br><br>
 
 [About](#about-hrtechify) · [Why I Build](#why-i-build) · [Products](#featured-products) · [TechHR Lab](#the-techhr-lab) · [Founder](#founder) · [Connect](#connect)
 
@@ -42,7 +48,9 @@
 ---
 
 <a id="about-hrtechify"></a>
-<h2>About HRTechify</h2>
+<strong>ABOUT HRTECHIFY</strong>
+
+<br><br>
 
 **HRTechify is an HR company focused on _People • Technology • Growth_.**
 
@@ -53,7 +61,9 @@ I bring together **HR expertise**, **workplace insight**, **product thinking** a
 ---
 
 <a id="why-i-build"></a>
-<h2>Why I Build</h2>
+<strong>WHY I BUILD</strong>
+
+<br><br>
 
 I started with **HR problems, not code**.
 
@@ -67,7 +77,9 @@ I am still learning. I use technology to extend what I can create rather than pr
 
 <div align="center">
 
-<h3>AI did not give me the ideas. It gave my ideas wings.</h3>
+<strong>AI did not give me the ideas. It gave my ideas wings.</strong>
+
+<br><br>
 
 <strong>This is where I turn HR thinking into something people can see, use, question and improve.</strong>
 
@@ -76,7 +88,9 @@ I am still learning. I use technology to extend what I can create rather than pr
 ---
 
 <a id="github-stats"></a>
-<h2>GitHub Stats</h2>
+<strong>GITHUB STATS</strong>
+
+<br><br>
 
 <div align="center">
 
@@ -97,23 +111,30 @@ I am still learning. I use technology to extend what I can create rather than pr
 ---
 
 <a id="focus-areas"></a>
-<h2>Focus Areas</h2>
+<strong>FOCUS AREAS</strong>
 
-<h3>People & Talent</h3>
+<br><br>
+
+**People & Talent**
+
 **Talent strategy** · Succession & critical roles · Leadership development · Career & performance systems · Employee experience
 
-<h3>Organisation & Workplace</h3>
+**Organisation & Workplace**
+
 **Organisation effectiveness** · People processes · Workplace realities · Work design & change · Culture, trust & fairness
 
-<h3>HR Technology</h3>
+**HR Technology**
+
 **HR decision flows** · Rules engines · AI-assisted HR tools · Workflow automation · Explainable HR intelligence
 
 ---
 
 <a id="featured-products"></a>
-<h2>Featured Products</h2>
+<strong>FEATURED PRODUCTS</strong>
 
-<h3>HRTechify</h3>
+<br><br>
+
+**HRTechify**  
 **Parent HR company platform**
 
 People, organisation and technology brought together under **People • Technology • Growth**.
@@ -122,7 +143,7 @@ People, organisation and technology brought together under **People • Technolo
 
 ![Updated](https://img.shields.io/github/last-commit/hrtechifyed/HRTECHIFY?style=flat-square&label=Updated)
 
-<h3>GrowWithHR</h3>
+**GrowWithHR**  
 **Explainable HR & compliance advisory**
 
 Rules-first guidance with governed retrieval and AI used for explanation — not decision authority.
@@ -133,7 +154,7 @@ Rules-first guidance with governed retrieval and AI used for explanation — not
 
 > **Boundary:** the current compliance capability is a **research/advisory prototype** — not legal certification, legal opinion or guaranteed compliance.
 
-<h3>The CorporateX</h3>
+**The CorporateX**  
 **Workplace exit-story intelligence**
 
 Structured stories preserve the context behind why people leave — not just the final rating.
@@ -142,7 +163,7 @@ Structured stories preserve the context behind why people leave — not just the
 
 ![Updated](https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=Updated)
 
-<h3>Podcast Studio</h3>
+**Podcast Studio**  
 **Supporting technology experiment**
 
 Privacy-first podcast production with original-audio preservation and approval-controlled edits.
@@ -154,7 +175,9 @@ Privacy-first podcast production with original-audio preservation and approval-c
 ---
 
 <a id="the-techhr-lab"></a>
-<h2>The TechHR Lab</h2>
+<strong>THE TECHHR LAB</strong>
+
+<br><br>
 
 **People / workplace problem → HR logic → experience design → technology → prototype → test → learn → improve**
 
@@ -183,7 +206,9 @@ Human enrichment & responsible participation
 ---
 
 <a id="technology-enablers"></a>
-<h2>Technology Enablers</h2>
+<strong>TECHNOLOGY ENABLERS</strong>
+
+<br><br>
 
 <div align="center">
 
@@ -204,7 +229,9 @@ Human enrichment & responsible participation
 ---
 
 <a id="founder"></a>
-<h2>Founder</h2>
+<strong>FOUNDER</strong>
+
+<br><br>
 
 **I am [Anurag Sinha](https://www.linkedin.com/in/anuragsinha1009/), founder of HRTechify**, and an HR leader working across **talent**, **leadership**, **organisation effectiveness**, **people systems** and **HR technology**.
 
@@ -221,15 +248,19 @@ Human enrichment & responsible participation
 ---
 
 <a id="2026-roadmap"></a>
-<h2>2026 Roadmap</h2>
+<strong>2026 ROADMAP</strong>
 
-<h3>Company & Product</h3>
+<br><br>
+
+**Company & Product**
+
 **One coherent HRTechify platform**  
 Better accessibility and usability  
 Less duplication across experiments  
 Clearer public product portfolio
 
-<h3>HR & Technology</h3>
+**HR & Technology**
+
 **Deeper explainable HR decision support**  
 Stronger governed evidence flows  
 More human-centred agent behaviours  
@@ -240,7 +271,9 @@ Explicit human judgement in high-stakes use cases
 ---
 
 <a id="connect"></a>
-<h2>Connect</h2>
+<strong>CONNECT</strong>
+
+<br><br>
 
 <div align="center">
 
