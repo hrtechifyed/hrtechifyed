@@ -9,7 +9,7 @@
 **Technology where it helps. Human judgement where it matters.**
 
 <a href="https://hrtechifyed.github.io/HRTECHIFY/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=820&lines=HR+first.+Technology+enabled.+Human+centred.;Talent+%E2%80%A2+Leadership+%E2%80%A2+People+Systems+%E2%80%A2+HR+Technology;Building+around+real+people+and+workplace+problems;People+%E2%80%A2+Technology+%E2%80%A2+Growth" alt="HRTechify typing animation" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=HR+first.+Technology+enabled.+Human+centred.;Talent+%E2%80%A2+Leadership+%E2%80%A2+People+Systems+%E2%80%A2+HR+Technology;Building+around+real+people+and+workplace+problems;People+%E2%80%A2+Technology+%E2%80%A2+Growth" alt="HRTechify typing animation" />
 </a>
 
 [![Website](https://img.shields.io/badge/Website-HRTechify-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hrtechifyed.github.io/HRTECHIFY/)
@@ -33,30 +33,11 @@
 
 ### **Quick Navigation**
 
-[📊 Stats](#-github-stats) • [🏢 About](#-about-hrtechify) • [🎯 Focus](#-focus-areas) • [🚀 Products](#-featured-products) • [🧪 Lab](#-the-techhr-lab) • [🛠️ Technology](#️-technology-enablers) • [👤 Founder](#-founder) • [🗺️ Roadmap](#️-2026-roadmap) • [🤝 Connect](#-connect)
+[🏢 About](#-about-hrtechify) • [✨ Why I Build](#-why-i-build) • [📊 Stats](#-github-stats) • [🎯 Focus](#-focus-areas) • [🚀 Products](#-featured-products)
+
+[🧪 Lab](#-the-techhr-lab) • [🛠️ Technology](#️-technology-enablers) • [👤 Founder](#-founder) • [🗺️ Roadmap](#️-2026-roadmap) • [🤝 Connect](#-connect)
 
 </div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=hrtechifyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=hrtechifyed&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="48%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrtechifyed&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
-> **This GitHub is a TechHR lab:** HR ideas are made tangible through prototypes, tests and working products—not to position HRTechify as a software engineering company.
 
 ---
 
@@ -79,18 +60,72 @@ We combine **HR expertise**, **workplace insight**, **product thinking** and **r
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=Why%20I%20Build&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## ✨ Why I Build
+
+I started with **HR problems, not code**.
+
+I am an **HR professional, not a full-time software developer**. For years, many ideas I could clearly imagine were limited by one practical question: **how do I actually build them?**
+
+**AI changed that.**
+
+It has given me the ability to move beyond presentations, concepts and sketches — to **experiment, build prototypes, test ideas and turn some of them into working products**.
+
+I am still learning. I still rely on technology rather than pretending to be a software engineer. But that is precisely what makes this GitHub meaningful to me.
+
+<div align="center">
+
+### **AI did not give me the ideas. It gave my ideas wings.**
+
+**This is where I try to turn HR thinking into something people can actually see, use, question and improve.**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=64&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=hrtechifyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=hrtechifyed&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="100%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrtechifyed&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+> **This GitHub is a TechHR lab:** HR ideas are made tangible through prototypes, tests and working products — not to position HRTechify as a software engineering company.
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=64&section=header&text=Focus%20Areas&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 ## 🎯 Focus Areas
 
-| **👥 People & Talent** | **🏢 Organisation & Workplace** | **⚙️ HR Technology** |
-|---|---|---|
-| **Talent strategy** | **Organisation effectiveness** | **HR decision flows** |
-| Succession & critical roles | People processes | Rules engines |
-| Leadership development | Workplace realities | AI-assisted HR tools |
-| Career & performance systems | Work design & change | Workflow automation |
-| Employee experience | Culture, trust & fairness | Explainable HR intelligence |
+### 👥 People & Talent
+
+**Talent strategy** • Succession & critical roles • Leadership development • Career & performance systems • Employee experience
+
+### 🏢 Organisation & Workplace
+
+**Organisation effectiveness** • People processes • Workplace realities • Work design & change • Culture, trust & fairness
+
+### ⚙️ HR Technology
+
+**HR decision flows** • Rules engines • AI-assisted HR tools • Workflow automation • Explainable HR intelligence
 
 ---
 
@@ -100,42 +135,53 @@ We combine **HR expertise**, **workplace insight**, **product thinking** and **r
 
 ## 🚀 Featured Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🧭 HRTechify</h3>
-<strong>Parent HR company platform</strong><br><br>
-People, organisation and technology brought together under <strong>People • Technology • Growth</strong>.<br><br>
-<a href="https://hrtechifyed.github.io/HRTECHIFY/"><strong>Website</strong></a> · <a href="https://github.com/hrtechifyed/HRTECHIFY"><strong>Repository</strong></a><br><br>
-<img src="https://img.shields.io/github/last-commit/hrtechifyed/HRTECHIFY?style=flat-square&label=Updated" />
-</td>
-<td width="50%" valign="top">
-<h3>🛡️ GrowWithHR</h3>
-<strong>Explainable HR & compliance advisory</strong><br><br>
-Rules-first guidance with governed retrieval and AI used for explanation—not decision authority.<br><br>
-<a href="https://growwithhr.onrender.com/"><strong>Live</strong></a> · <a href="https://github.com/hrtechifyed/GrowwithHR-Version2"><strong>Repository</strong></a><br><br>
-<img src="https://img.shields.io/github/last-commit/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=Updated" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧩 The CorporateX</h3>
-<strong>Workplace exit-story intelligence</strong><br><br>
-Structured stories preserve the context behind why people leave—not just the final rating.<br><br>
-<a href="https://hrtechifyed.github.io/The-Corporatex/"><strong>Live</strong></a> · <a href="https://github.com/hrtechifyed/The-Corporatex"><strong>Repository</strong></a><br><br>
-<img src="https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=Updated" />
-</td>
-<td width="50%" valign="top">
-<h3>🎙️ Podcast Studio</h3>
-<strong>Supporting technology experiment</strong><br><br>
-Privacy-first podcast production with original-audio preservation and approval-controlled edits.<br><br>
-<a href="https://github.com/hrtechifyed/hrtechify-public-podcast-studio"><strong>Repository</strong></a><br><br>
-<img src="https://img.shields.io/github/last-commit/hrtechifyed/hrtechify-public-podcast-studio?style=flat-square&label=Updated" />
-</td>
-</tr>
-</table>
+### 🧭 HRTechify
 
-> **GrowWithHR boundary:** the current compliance capability is a **research/advisory prototype**—not legal certification, legal opinion or guaranteed compliance.
+**Parent HR company platform**
+
+People, organisation and technology brought together under **People • Technology • Growth**.
+
+[**Website**](https://hrtechifyed.github.io/HRTECHIFY/) · [**Repository**](https://github.com/hrtechifyed/HRTECHIFY)
+
+![Updated](https://img.shields.io/github/last-commit/hrtechifyed/HRTECHIFY?style=flat-square&label=Updated)
+
+---
+
+### 🛡️ GrowWithHR
+
+**Explainable HR & compliance advisory**
+
+Rules-first guidance with governed retrieval and AI used for explanation — not decision authority.
+
+[**Live**](https://growwithhr.onrender.com/) · [**Repository**](https://github.com/hrtechifyed/GrowwithHR-Version2)
+
+![Updated](https://img.shields.io/github/last-commit/hrtechifyed/GrowwithHR-Version2?style=flat-square&label=Updated)
+
+> **Boundary:** the current compliance capability is a **research/advisory prototype** — not legal certification, legal opinion or guaranteed compliance.
+
+---
+
+### 🧩 The CorporateX
+
+**Workplace exit-story intelligence**
+
+Structured stories preserve the context behind why people leave — not just the final rating.
+
+[**Live**](https://hrtechifyed.github.io/The-Corporatex/) · [**Repository**](https://github.com/hrtechifyed/The-Corporatex)
+
+![Updated](https://img.shields.io/github/last-commit/hrtechifyed/The-Corporatex?style=flat-square&label=Updated)
+
+---
+
+### 🎙️ Podcast Studio
+
+**Supporting technology experiment**
+
+Privacy-first podcast production with original-audio preservation and approval-controlled edits.
+
+[**Repository**](https://github.com/hrtechifyed/hrtechify-public-podcast-studio)
+
+![Updated](https://img.shields.io/github/last-commit/hrtechifyed/hrtechify-public-podcast-studio?style=flat-square&label=Updated)
 
 ---
 
@@ -151,12 +197,17 @@ Privacy-first podcast production with original-audio preservation and approval-c
 
 </div>
 
-| **Status** | **Build** | **Focus** |
-|---|---|---|
-| **LIVE** | [HRTechify](https://github.com/hrtechifyed/HRTECHIFY) | People • Technology • Growth |
-| **LIVE** | [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2) | Explainable HR & compliance intelligence |
-| **LIVE** | [The CorporateX](https://github.com/hrtechifyed/The-Corporatex) | Structured workplace exit stories |
-| **LIVE AGENT** | [HeartHR](https://www.moltbook.com/u/hearthr) | Human enrichment & responsible participation |
+**LIVE** — [HRTechify](https://github.com/hrtechifyed/HRTECHIFY)  
+People • Technology • Growth
+
+**LIVE** — [GrowWithHR](https://github.com/hrtechifyed/GrowwithHR-Version2)  
+Explainable HR & compliance intelligence
+
+**LIVE** — [The CorporateX](https://github.com/hrtechifyed/The-Corporatex)  
+Structured workplace exit stories
+
+**LIVE AGENT** — [HeartHR](https://www.moltbook.com/u/hearthr)  
+Human enrichment & responsible participation
 
 <details>
 <summary><strong>Earlier and supporting experiments</strong></summary>
@@ -220,12 +271,19 @@ Privacy-first podcast production with original-audio preservation and approval-c
 
 ## 🗺️ 2026 Roadmap
 
-| **🏢 Company & Product** | **🧠 HR & Technology** |
-|---|---|
-| **One coherent HRTechify platform** | **Deeper explainable HR decision support** |
-| Better accessibility and usability | Stronger governed evidence flows |
-| Less duplication across experiments | More human-centred agent behaviours |
-| Clearer public product portfolio | Explicit human judgement in high-stakes use cases |
+### 🏢 Company & Product
+
+**One coherent HRTechify platform**  
+Better accessibility and usability  
+Less duplication across experiments  
+Clearer public product portfolio
+
+### 🧠 HR & Technology
+
+**Deeper explainable HR decision support**  
+Stronger governed evidence flows  
+More human-centred agent behaviours  
+Explicit human judgement in high-stakes use cases
 
 <div align="center">
 
@@ -251,7 +309,7 @@ Privacy-first podcast production with original-audio preservation and approval-c
 
 <br><br>
 
-### **People problems first. Technology where it helps.**
+**HRTechify — People • Technology • Growth**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=110&section=footer" />
 
