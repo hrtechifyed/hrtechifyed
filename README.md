@@ -1,16 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=180&section=header&text=HRTechify%20&fontSize=54&fontColor=fff&fontAlignY=35&desc=People%20%E2%80%A2%20Technology%20%E2%80%A2%20Growth&descAlignY=59&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=200&section=header&text=HRTechify&fontSize=60&fontColor=fff&fontAlignY=35&desc=People%20%E2%80%A2%20Technology%20%E2%80%A2%20Growth&descAlignY=58&descSize=20&animation=fadeIn" />
 
-HR company building practical HR technology and workplace solutions
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-People • Technology • Growth
+🧭 HRTechify
 
-Talent & Leadership Development · People Strategy · HR Technology · People Systems · Organisational Effectiveness · AI-enabled HR Innovation
+An HR company building practical people, workplace and HR technology solutions
 
-HRTechify is a founder-led HR company focused on People • Technology • Growth. We bring together HR expertise, workplace insight, product thinking and responsible technology to turn people and organisational problems into clearer systems, useful tools and practical working prototypes.
+<a href="https://hrtechifyed.github.io/HRTECHIFY/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&lines=HR+first.+Technology+enabled.+Human+centred.;Building+around+real+people+and+workplace+problems;Talent+%E2%80%A2+Leadership+%E2%80%A2+People+Systems+%E2%80%A2+HR+Technology;Technology+where+it+helps.+Human+judgement+where+it+matters.;People+%E2%80%A2+Technology+%E2%80%A2+Growth" alt="HRTechify typing animation" />
+</a>
 
-Founded by Anurag Sinha — an HR leader working across talent, leadership, organisation effectiveness, people systems and HR technology.
+
+
+
+
+
+
+
+<br>
+
 
 
 
@@ -18,33 +28,181 @@ Founded by Anurag Sinha — an HR leader working across talent, leadership, orga
 
 </div>
 
-Four flagship builds
+<div align="center">
+
+🧭 Quick Navigation
+
+📊 Stats · 🏢 About · 🎯 Focus · 🚀 Products · 🧪 TechHR Lab · 🛠️ Technology · 👤 Founder · 🗺️ Roadmap · 🧠 Principles · 🤝 Connect
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=72&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=hrtechifyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=hrtechifyed&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="48%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrtechifyed&theme=tokyo-night&hide_border=true" width="95%" />
+
+<br>
+
+
+
+
+
+</div>
+
+GitHub activity here reflects HR product experimentation, AI-assisted building and learning-by-making. The objective is not to present HRTechify as a software-engineering company; it is to make HR ideas tangible enough to test, improve and use.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=72&section=header&text=About%20HRTechify&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🏢 About HRTechify
+
+HRTechify is an HR company focused on People • Technology • Growth.
+
+We bring together HR expertise, workplace insight, product thinking and responsible technology to explore better ways of managing people, organisations and work.
+
+The company starts with the HR or workplace problem first. Technology is added where it improves clarity, experience, decisions, accessibility or scale.
+
+const hrtechify = {
+  identity: "HR Company",
+  brand: "People • Technology • Growth",
+
+  focus: [
+    "Talent & Leadership",
+    "People Strategy",
+    "HR Technology",
+    "People Systems",
+    "Organisation Effectiveness",
+    "Employee & Workplace Experience",
+  ],
+
+  approach: {
+    startsWith: "People and workplace problems",
+    uses: "HR logic + product thinking + responsible technology",
+    protects: "Human judgement, context and accountability",
+    learnsThrough: "Build → Test → Learn → Improve",
+  },
+
+  principle: "HR first. Technology enabled. Human centred.",
+};
+
+<div align="center">
+
+The question behind the company
+
+How can HR become more useful, contextual, explainable and human — while using technology where it genuinely helps?
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=72&section=header&text=Where%20We%20Operate&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🎯 Where HRTechify Operates
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+👥 People & Talent
+
+Talent strategy
+
+Succession & critical roles
+
+Leadership development
+
+Career & performance systems
+
+Employee experience
+
+Workforce & people decisions
+
+</td>
+<td width="33%" valign="top">
+
+🏢 Organisation & Workplace
+
+Organisation effectiveness
+
+People processes
+
+Workplace realities
+
+Culture, trust & fairness
+
+Employee journeys
+
+Work design & change
+
+</td>
+<td width="33%" valign="top">
+
+⚙️ HR Technology
+
+HR decision flows
+
+Rules engines
+
+AI-assisted HR tools
+
+Workflow automation
+
+Explainable HR intelligence
+
+Responsible human–AI design
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+People problems first. Technology where it helps.
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=72&section=header&text=Featured%20Products&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🚀 Featured Products
 
 Product
 
-The problem
+HR / workplace problem
 
-The approach
+Approach
 
 Explore
 
-HRTechify
+🧭 HRTechify
 
-People and technology conversations are often separated when workplace problems need both.
+People, organisation and technology conversations are often separated even when workplace problems need all three.
 
-A connected HR platform across People • Technology • Growth.
+A connected HR company platform across People • Technology • Growth.
 
-Explore · Repository
+Website · Repository
 
-GrowWithHR
+🛡️ GrowWithHR
 
-HR compliance guidance can become generic, difficult to trace and overly dependent on model output.
+HR compliance guidance can become generic, opaque or overly dependent on model output.
 
 Deterministic rules first, governed retrieval second, AI only for explanation.
 
 Live · Repository
 
-The CorporateX
+🧩 The CorporateX
 
 Employer ratings often lose the context behind why someone actually left.
 
@@ -52,72 +210,76 @@ Structured exit stories designed to preserve sequence, context and contributor m
 
 Live · Repository
 
-Public Podcast Studio
+🤝 HeartHR
 
-Podcast production tools can automate too much, obscure what happens to source audio or make creator control secondary.
+Autonomous agents can participate in workplace conversations without enough attention to empathy, trust or human wellbeing.
 
-Privacy-first production with original-audio preservation, browser recording, user-owned storage and approval-controlled spoken-content edits.
+A human-enrichment HR community experiment focused on thoughtful participation and responsible AI engagement.
+
+Explore
+
+GrowWithHR boundary: the current compliance capability is a research/advisory prototype. It is not legal certification, legal opinion or guaranteed compliance.
+
+Supporting technology experiment
+
+Build
+
+Why it exists
+
+Explore
+
+🎙️ HRTechify Public Podcast Studio
+
+Tests privacy-first production, original-audio preservation and approval-controlled spoken-content editing.
 
 Repository
 
 <div align="center">
 
+<a href="https://github.com/hrtechifyed/HRTECHIFY">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hrtechifyed&repo=HRTECHIFY&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/hrtechifyed/GrowwithHR-Version2">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hrtechifyed&repo=GrowwithHR-Version2&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
-
-
-
+<a href="https://github.com/hrtechifyed/The-Corporatex">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hrtechifyed&repo=The-Corporatex&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/hrtechifyed/hrtechify-public-podcast-studio">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hrtechifyed&repo=hrtechify-public-podcast-studio&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
 </div>
 
-Why this GitHub exists
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=72&section=header&text=The%20TechHR%20Lab&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
-HRTechify's professional foundation is HR first, technology enabled.
+🧪 The TechHR Lab
 
-This GitHub acts as a TechHR lab: a place to test whether ideas from talent, organisation design, employee experience, HR compliance, leadership, people systems and human–AI collaboration can be turned into something people can actually use.
+HRTechify uses GitHub as a TechHR lab — a place to test whether HR and workplace ideas can be turned into something practical enough to experience, question and improve.
 
-The pattern is consistent:
+graph TB
+    A[👥 People / Workplace Problem] --> B[🧠 HR & Organisational Logic]
+    B --> C[🧭 Decision Rules + Experience Design]
+    C --> D[⚙️ Technology as an Enabling Layer]
+    D --> E[🧪 Working Prototype]
+    E --> F[🔍 Test]
+    F --> G[📚 Learn]
+    G --> H[🔁 Improve]
+    H --> B
 
-People / workplace problem
-        ↓
-HR and organisational logic
-        ↓
-Decision rules + experience design
-        ↓
-Technology as an enabling layer
-        ↓
-Working prototype
-        ↓
-Test • learn • improve
+    style A fill:#7C2D12,color:#fff
+    style B fill:#7E22CE,color:#fff
+    style C fill:#B45309,color:#fff
+    style D fill:#0369A1,color:#fff
+    style E fill:#0F766E,color:#fff
+    style F fill:#374151,color:#fff
+    style G fill:#4F46E5,color:#fff
+    style H fill:#9F1239,color:#fff
 
-HR first. Technology enabled. Human centred.
-
-From HR problem → working product
-
-1. A connected People × Technology HR platform
-
-Problem: HR technology discussions can start with the tool instead of the workplace question.
-Platform: HRTechify
-Design choice: Start with people and the HR problem. Add technology where it improves clarity, decisions or experience.
-
-2. Explainable HR intelligence
-
-Problem: AI can produce fluent HR guidance without making the decision path clear.
-Product: GrowWithHR
-Design choice: Rules decide. Governed sources support. AI explains.
-
-3. Workplace stories with context
-
-Problem: A single employer rating rarely explains what changed, why someone left or who might still thrive there.
-Product: The CorporateX
-Design choice: Preserve the story behind the score.
-
-4. Podcast production without taking control from the creator
-
-Problem: Production automation should not silently rewrite spoken content or overwrite source recordings.
-Product: HRTechify Public Podcast Studio
-Design choice: Preserve the original, automate technical cleanup, and require approval before spoken content is changed.
-
-The TechHR Lab
+Current lab
 
 Status
 
@@ -129,7 +291,7 @@ LIVE
 
 HRTechify
 
-HR company platform across People • Technology • Growth
+People • Technology • Growth
 
 LIVE
 
@@ -143,23 +305,17 @@ The CorporateX
 
 Structured workplace exit stories
 
-BUILDING IN PUBLIC
-
-Public Podcast Studio
-
-Privacy-first, creator-controlled podcast production technology
-
 LIVE AGENT
 
 HeartHR
 
-Autonomous HR community experiment focused on human enrichment, thoughtful participation and responsible AI engagement
+Human enrichment & responsible HR-community participation
 
-HeartHR — autonomous HR community experiment
+BUILDING IN PUBLIC
 
-HeartHR explores how an autonomous AI agent can participate in HR conversations while staying focused on the human side of work — empathy, trust, belonging, psychological safety, wellbeing, uncertainty and human-centred leadership.
+Public Podcast Studio
 
-Visit HeartHR on Moltbook →
+Privacy-first, creator-controlled production technology
 
 <details>
 <summary><strong>Earlier and supporting experiments</strong></summary>
@@ -174,82 +330,31 @@ Company Analyser — structured organisational analysis
 
 </details>
 
-Build activity
-
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=hrtechifyed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=hrtechifyed&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="48%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrtechifyed&theme=tokyo-night&hide_border=true" width="95%" />
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=72&section=header&text=Technology%20as%20an%20Enabler&fontSize=27&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-GitHub activity here reflects HR product experimentation, AI-assisted building and learning-by-making. The goal is not to present a software-engineering identity; it is to make HR ideas tangible enough to test.
+🛠️ Technology as an Enabler
 
-Founder & professional foundation
-
-HRTechify was founded by Anurag Sinha, an HR leader focused on redesigning how HR is perceived, experienced and leveraged at work.
-
-His work spans strategic HR, talent management, business partnering, succession management, leadership development, organisation effectiveness, performance development, workforce decisions, employee experience and HR capability building.
-
-Selected professional experience includes:
-
-Siemens — talent and leadership-development work across India and Bangladesh; succession, critical roles and leadership readiness with senior stakeholders.
-
-Amazon — HR partnership for a global employee population of 1,100+ across multiple countries; performance, career frameworks, employee experience and team effectiveness.
-
-Flipkart — organisation design, post-acquisition integration, rewards, talent and performance; designed an HR competency model while the HR organisation scaled from roughly 200 to 600+ employees in about 18 months.
-
-
-
-Where HRTechify operates
-
-HR Core
-
-Technology Edge
-
-Talent Strategy
-
-AI-assisted product building
-
-Succession & Critical Roles
-
-AI agents & workflow automation
-
-Organisation Design
-
-Rules engines & decision flows
-
-Performance & Career Frameworks
-
-Retrieval-augmented generation
-
-Leadership Development
-
-API integrations
-
-Workforce & People Decisions
-
-Data & cloud platforms
-
-Employee Experience
-
-Responsible human–AI design
-
-The technology is there to strengthen the HR system — not to replace judgment, context or accountability.
-
-Product & AI toolkit
+Technology is part of the HRTechify operating model, but not the company identity by itself.
 
 <div align="center">
 
+Decision & Intelligence
 
 
 
 
 
+
+Workflow & Product
+
+
+
+
+
+
+Platforms & Delivery
 
 
 
@@ -258,7 +363,159 @@ Product & AI toolkit
 
 </div>
 
-Questions HRTechify is exploring
+The technology is there to strengthen the HR system — not to replace judgement, context or accountability.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=72&section=header&text=Founder&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+👤 Founder
+
+HRTechify was founded by Anurag Sinha — an HR leader focused on how talent, leadership, organisation effectiveness, people systems and technology can create better workplace outcomes.
+
+His professional foundation spans:
+
+Talent & leadership development
+
+HR business partnering
+
+Succession & critical roles
+
+Organisation effectiveness
+
+Performance & career systems
+
+Workforce and people decisions
+
+Employee experience
+
+HR capability building
+
+HR technology & people systems
+
+Selected professional experience includes Siemens, Amazon and Flipkart.
+
+These organisations are part of the founder's professional experience and are not presented as HRTechify customers, partners or affiliates.
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=72&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🗺️ 2026 Roadmap
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏢 Company & Product
+
+Strengthen HRTechify as one coherent HR-company platform
+
+Make the public product portfolio easier to understand
+
+Improve accessibility across products and devices
+
+Reduce duplication across experiments and versions
+
+Improve reliability, documentation and maintainability
+
+</td>
+<td width="50%" valign="top">
+
+🧠 HR & Technology
+
+Deepen explainable HR decision support
+
+Improve governed HR research and evidence flows
+
+Test more human-centred agent behaviours
+
+Explore better people-system decision journeys
+
+Keep human judgement explicit in high-stakes HR use cases
+
+</td>
+</tr>
+</table>
+
+Current priority
+
+Build less randomly
+        ↓
+Finish and strengthen what matters
+        ↓
+Make HRTechify easier to understand
+        ↓
+Improve one high-value experience at a time
+        ↓
+Learn from real use
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=72&section=header&text=Operating%20Principles&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🧠 Operating Principles
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+👥 HR First
+
+Start with the people or workplace problem — not the tool.
+
+</td>
+<td width="33%" valign="top">
+
+🧭 Context Matters
+
+HR decisions need organisational context, not generic answers.
+
+</td>
+<td width="33%" valign="top">
+
+🤝 Human Centred
+
+Technology should strengthen human agency, dignity and judgement.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+🔎 Explainability
+
+Important outputs should make the reasoning path easier to understand.
+
+</td>
+<td width="33%" valign="top">
+
+🛡️ Boundaries
+
+Technology should not silently assume authority it does not have.
+
+</td>
+<td width="33%" valign="top">
+
+🔁 Learn by Building
+
+Prototype, test, learn and improve instead of treating the first answer as final.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+❓ Questions HRTechify Is Exploring
+
+</div>
 
 How can AI support HR decisions without becoming the decision authority?
 
@@ -268,13 +525,22 @@ What should organisations preserve when technology removes repetitive work that 
 
 How can talent, career and performance systems become more contextual and less mechanical?
 
-Where should automation stop and human judgment deliberately remain?
+How can HR technology improve decisions without removing accountability?
 
-Connect / collaborate
-
-If you work on talent, organisation effectiveness, HR technology, people systems, workplace products or responsible human–AI collaboration, HRTechify is always interested in thoughtful conversations and experiments.
+Where should automation stop and human judgement deliberately remain?
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=72&section=header&text=Connect%20%26%20Collaborate&fontSize=27&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+🤝 Connect / Collaborate
+
+If you work on talent, leadership, organisation effectiveness, HR technology, people systems, workplace products or responsible human–AI collaboration, HRTechify is interested in thoughtful conversations and practical experimentation.
+
+<div align="center">
+
+
+
 
 
 
@@ -284,6 +550,6 @@ If you work on talent, organisation effectiveness, HR technology, people systems
 
 People problems first. Technology where it helps.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,6,11&height=120&section=footer" />
 
 </div>
